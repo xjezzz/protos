@@ -1,4 +1,5 @@
-module protos
+module github.com/xjezzz/protos
+
 
 go 1.21.3
 
